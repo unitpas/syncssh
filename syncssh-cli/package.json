@@ -1,0 +1,29 @@
+{
+  "name": "syncssh",
+  "version": "1.0.0",
+  "description": "Console command to help you publish your public ssh keys to remote servers to be able to ssh into them",
+  "keywords": [
+    "ssh",
+    "sync",
+    "syncssh",
+    "connect",
+    "utils",
+    "helper"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "syncssh": "./bin/syncssh"
+  },
+  "author": "Unitpas",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^4.0.1",
+    "glob": "^7.1.6",
+    "inquirer": "^7.0.0",
+    "request": "^2.88.0"
+  }
+}
