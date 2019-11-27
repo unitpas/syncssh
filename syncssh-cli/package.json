@@ -1,6 +1,6 @@
 {
   "name": "syncssh",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Console command to help you publish your public ssh keys to remote servers to be able to ssh into them",
   "keywords": [
     "ssh",
