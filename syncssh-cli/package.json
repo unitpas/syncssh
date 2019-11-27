@@ -18,6 +18,10 @@
   "bin": {
     "syncssh": "./bin/syncssh"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unitpas/syncssh.git"
+  },
   "author": "Unitpas",
   "license": "MIT",
   "dependencies": {

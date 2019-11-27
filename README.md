@@ -1,5 +1,11 @@
 ## Console command to help you publish your public ssh keys to remote servers to be able to ssh into them.
 
+[![NPM](https://nodei.co/npm/syncssh.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/syncssh/)<br/>
+
+## Installation
+
+Install **syncssh** with [npm](https://www.npmjs.com/): npm install -g syncssh
+
 ## Usage 
     syncssh -o push 
         - to push the public ssh keys into the cloud
