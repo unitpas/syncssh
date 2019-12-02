@@ -1,6 +1,6 @@
 {
   "name": "syncssh",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Console command to help you publish your public ssh keys to remote servers to be able to ssh into them",
   "keywords": [
     "ssh",
@@ -22,6 +22,7 @@
     "type": "git",
     "url": "https://github.com/unitpas/syncssh.git"
   },
+  "readme": "README.md",
   "author": "Unitpas",
   "license": "MIT",
   "dependencies": {
